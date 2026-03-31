@@ -27,7 +27,7 @@ export default function HeroSection() {
 
             <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-5">
               Was Your Car Finance{' '}
-              <span className="text-amber-400">Fairly Arranged?</span>
+              <span className="text-amber-400">Arranged Fairly?</span>
             </h1>
 
             <p className="text-gray-300 text-lg leading-relaxed mb-6">
